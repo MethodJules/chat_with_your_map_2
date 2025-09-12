@@ -1,0 +1,86 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\shellingham-1.5.4-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/shellingham-1.5.4.dist-info/INSTALLER",
+    "Lib/site-packages/shellingham-1.5.4.dist-info/LICENSE",
+    "Lib/site-packages/shellingham-1.5.4.dist-info/METADATA",
+    "Lib/site-packages/shellingham-1.5.4.dist-info/RECORD",
+    "Lib/site-packages/shellingham-1.5.4.dist-info/REQUESTED",
+    "Lib/site-packages/shellingham-1.5.4.dist-info/WHEEL",
+    "Lib/site-packages/shellingham-1.5.4.dist-info/direct_url.json",
+    "Lib/site-packages/shellingham-1.5.4.dist-info/top_level.txt",
+    "Lib/site-packages/shellingham-1.5.4.dist-info/zip-safe",
+    "Lib/site-packages/shellingham/__init__.py",
+    "Lib/site-packages/shellingham/_core.py",
+    "Lib/site-packages/shellingham/nt.py",
+    "Lib/site-packages/shellingham/posix/__init__.py",
+    "Lib/site-packages/shellingham/posix/_core.py",
+    "Lib/site-packages/shellingham/posix/proc.py",
+    "Lib/site-packages/shellingham/posix/ps.py",
+    "Lib/site-packages/shellingham/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/shellingham/__pycache__/_core.cpython-310.pyc",
+    "Lib/site-packages/shellingham/__pycache__/nt.cpython-310.pyc",
+    "Lib/site-packages/shellingham/posix/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/shellingham/posix/__pycache__/_core.cpython-310.pyc",
+    "Lib/site-packages/shellingham/posix/__pycache__/proc.cpython-310.pyc",
+    "Lib/site-packages/shellingham/posix/__pycache__/ps.cpython-310.pyc"
+  ],
+  "fn": "shellingham-1.5.4-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\shellingham-1.5.4-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "7c3c2a0f3ebdea2bbc35538d162b43bf",
+  "name": "shellingham",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\shellingham-1.5.4-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/shellingham/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/shellingham/__pycache__/_core.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/shellingham/__pycache__/nt.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/shellingham/posix/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/shellingham/posix/__pycache__/_core.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/shellingham/posix/__pycache__/proc.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/shellingham/posix/__pycache__/ps.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0557c090913aa63cdbe821dbdfa038a321b488e22bc80196c4b3b1aace4914ef",
+  "size": 14462,
+  "subdir": "noarch",
+  "timestamp": 1733301007000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/shellingham-1.5.4-pyhd8ed1ab_1.conda",
+  "version": "1.5.4"
+}

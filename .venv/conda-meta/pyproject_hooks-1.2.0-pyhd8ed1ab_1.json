@@ -1,0 +1,68 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9",
+    "tomli >=1.1.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\pyproject_hooks-1.2.0-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/pyproject_hooks-1.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/pyproject_hooks-1.2.0.dist-info/LICENSE",
+    "Lib/site-packages/pyproject_hooks-1.2.0.dist-info/METADATA",
+    "Lib/site-packages/pyproject_hooks-1.2.0.dist-info/RECORD",
+    "Lib/site-packages/pyproject_hooks-1.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/pyproject_hooks-1.2.0.dist-info/WHEEL",
+    "Lib/site-packages/pyproject_hooks-1.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/pyproject_hooks/__init__.py",
+    "Lib/site-packages/pyproject_hooks/_impl.py",
+    "Lib/site-packages/pyproject_hooks/_in_process/__init__.py",
+    "Lib/site-packages/pyproject_hooks/_in_process/_in_process.py",
+    "Lib/site-packages/pyproject_hooks/py.typed",
+    "Lib/site-packages/pyproject_hooks/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/pyproject_hooks/__pycache__/_impl.cpython-310.pyc",
+    "Lib/site-packages/pyproject_hooks/_in_process/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-310.pyc"
+  ],
+  "fn": "pyproject_hooks-1.2.0-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\pyproject_hooks-1.2.0-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "d4582021af437c931d7d77ec39007845",
+  "name": "pyproject_hooks",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\pyproject_hooks-1.2.0-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pyproject_hooks/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyproject_hooks/__pycache__/_impl.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyproject_hooks/_in_process/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "065ac44591da9abf1ff740feb25929554b920b00d09287a551fcced2c9791092",
+  "size": 15528,
+  "subdir": "noarch",
+  "timestamp": 1733710122000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pyproject_hooks-1.2.0-pyhd8ed1ab_1.conda",
+  "version": "1.2.0"
+}

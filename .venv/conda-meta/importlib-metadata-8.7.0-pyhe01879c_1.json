@@ -1,0 +1,125 @@
+{
+  "build": "pyhe01879c_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9",
+    "zipp >=3.20",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\importlib-metadata-8.7.0-pyhe01879c_1",
+  "files": [
+    "Lib/site-packages/importlib_metadata/__init__.py",
+    "Lib/site-packages/importlib_metadata/_adapters.py",
+    "Lib/site-packages/importlib_metadata/_collections.py",
+    "Lib/site-packages/importlib_metadata/_compat.py",
+    "Lib/site-packages/importlib_metadata/_functools.py",
+    "Lib/site-packages/importlib_metadata/_itertools.py",
+    "Lib/site-packages/importlib_metadata/_meta.py",
+    "Lib/site-packages/importlib_metadata/_text.py",
+    "Lib/site-packages/importlib_metadata/_typing.py",
+    "Lib/site-packages/importlib_metadata/compat/__init__.py",
+    "Lib/site-packages/importlib_metadata/compat/py311.py",
+    "Lib/site-packages/importlib_metadata/compat/py39.py",
+    "Lib/site-packages/importlib_metadata/diagnose.py",
+    "Lib/site-packages/importlib_metadata/py.typed",
+    "Lib/site-packages/importlib_metadata-8.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/importlib_metadata-8.7.0.dist-info/METADATA",
+    "Lib/site-packages/importlib_metadata-8.7.0.dist-info/RECORD",
+    "Lib/site-packages/importlib_metadata-8.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/importlib_metadata-8.7.0.dist-info/WHEEL",
+    "Lib/site-packages/importlib_metadata-8.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/importlib_metadata-8.7.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/importlib_metadata-8.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/importlib_metadata-8.7.0.dist-info/uv_cache.json",
+    "Lib/site-packages/importlib_metadata/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_adapters.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_collections.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_compat.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_functools.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_itertools.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_meta.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_text.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_typing.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/compat/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/compat/__pycache__/py311.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/compat/__pycache__/py39.cpython-310.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/diagnose.cpython-310.pyc"
+  ],
+  "fn": "importlib-metadata-8.7.0-pyhe01879c_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\importlib-metadata-8.7.0-pyhe01879c_1",
+    "type": 1
+  },
+  "md5": "63ccfdc3a3ce25b027b8767eb722fca8",
+  "name": "importlib-metadata",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\importlib-metadata-8.7.0-pyhe01879c_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_adapters.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_collections.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_compat.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_functools.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_itertools.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_meta.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_text.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/_typing.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/compat/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/compat/__pycache__/py311.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/compat/__pycache__/py39.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/importlib_metadata/__pycache__/diagnose.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c18ab120a0613ada4391b15981d86ff777b5690ca461ea7e9e49531e8f374745",
+  "size": 34641,
+  "subdir": "noarch",
+  "timestamp": 1747934053000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-8.7.0-pyhe01879c_1.conda",
+  "version": "8.7.0"
+}

@@ -1,0 +1,47 @@
+{
+  "build": "hfa2b4ca_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "intel-openmp <0.0a0",
+    "openmp 20.1.8|20.1.8.*"
+  ],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\llvm-openmp-20.1.8-hfa2b4ca_2",
+  "files": [
+    "Library/bin/libiomp5md.dll",
+    "Library/bin/libomp.dll",
+    "Library/include/omp.h",
+    "Library/include/omp_lib.h",
+    "Library/include/ompx.h",
+    "Library/lib/clang/18/include/omp.h",
+    "Library/lib/clang/19/include/omp.h",
+    "Library/lib/clang/20/include/omp.h",
+    "Library/lib/libiomp5md.lib",
+    "Library/lib/libomp.lib"
+  ],
+  "fn": "llvm-openmp-20.1.8-hfa2b4ca_2.conda",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\llvm-openmp-20.1.8-hfa2b4ca_2",
+    "type": 1
+  },
+  "md5": "2dc2edf349464c8b83a576175fc2ad42",
+  "name": "llvm-openmp",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\llvm-openmp-20.1.8-hfa2b4ca_2.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8970b7f9057a1c2c18bfd743c6f5ce73b86197d7724423de4fa3d03911d5874b",
+  "size": 344490,
+  "subdir": "win-64",
+  "timestamp": 1756145011000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/llvm-openmp-20.1.8-hfa2b4ca_2.conda",
+  "version": "20.1.8"
+}

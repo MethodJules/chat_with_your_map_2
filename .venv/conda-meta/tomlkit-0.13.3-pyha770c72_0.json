@@ -1,0 +1,121 @@
+{
+  "build": "pyha770c72_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\tomlkit-0.13.3-pyha770c72_0",
+  "files": [
+    "Lib/site-packages/tomlkit-0.13.3.dist-info/INSTALLER",
+    "Lib/site-packages/tomlkit-0.13.3.dist-info/LICENSE",
+    "Lib/site-packages/tomlkit-0.13.3.dist-info/METADATA",
+    "Lib/site-packages/tomlkit-0.13.3.dist-info/RECORD",
+    "Lib/site-packages/tomlkit-0.13.3.dist-info/REQUESTED",
+    "Lib/site-packages/tomlkit-0.13.3.dist-info/WHEEL",
+    "Lib/site-packages/tomlkit-0.13.3.dist-info/direct_url.json",
+    "Lib/site-packages/tomlkit/__init__.py",
+    "Lib/site-packages/tomlkit/_compat.py",
+    "Lib/site-packages/tomlkit/_types.py",
+    "Lib/site-packages/tomlkit/_utils.py",
+    "Lib/site-packages/tomlkit/api.py",
+    "Lib/site-packages/tomlkit/container.py",
+    "Lib/site-packages/tomlkit/exceptions.py",
+    "Lib/site-packages/tomlkit/items.py",
+    "Lib/site-packages/tomlkit/parser.py",
+    "Lib/site-packages/tomlkit/py.typed",
+    "Lib/site-packages/tomlkit/source.py",
+    "Lib/site-packages/tomlkit/toml_char.py",
+    "Lib/site-packages/tomlkit/toml_document.py",
+    "Lib/site-packages/tomlkit/toml_file.py",
+    "Lib/site-packages/tomlkit/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/_compat.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/_types.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/_utils.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/api.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/container.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/exceptions.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/items.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/parser.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/source.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/toml_char.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/toml_document.cpython-310.pyc",
+    "Lib/site-packages/tomlkit/__pycache__/toml_file.cpython-310.pyc"
+  ],
+  "fn": "tomlkit-0.13.3-pyha770c72_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\tomlkit-0.13.3-pyha770c72_0",
+    "type": 1
+  },
+  "md5": "146402bf0f11cbeb8f781fa4309a95d3",
+  "name": "tomlkit",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\tomlkit-0.13.3-pyha770c72_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/_compat.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/_types.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/_utils.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/api.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/container.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/exceptions.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/items.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/parser.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/source.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/toml_char.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/toml_document.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tomlkit/__pycache__/toml_file.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f8d3b49c084831a20923f66826f30ecfc55a4cd951e544b7213c692887343222",
+  "size": 38777,
+  "subdir": "noarch",
+  "timestamp": 1749127286000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/tomlkit-0.13.3-pyha770c72_0.conda",
+  "version": "0.13.3"
+}

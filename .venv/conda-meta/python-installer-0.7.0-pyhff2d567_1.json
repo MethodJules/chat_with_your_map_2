@@ -1,0 +1,111 @@
+{
+  "build": "pyhff2d567_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\python-installer-0.7.0-pyhff2d567_1",
+  "files": [
+    "Lib/site-packages/installer-0.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/installer-0.7.0.dist-info/LICENSE",
+    "Lib/site-packages/installer-0.7.0.dist-info/METADATA",
+    "Lib/site-packages/installer-0.7.0.dist-info/RECORD",
+    "Lib/site-packages/installer-0.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/installer-0.7.0.dist-info/WHEEL",
+    "Lib/site-packages/installer-0.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/installer/__init__.py",
+    "Lib/site-packages/installer/__main__.py",
+    "Lib/site-packages/installer/_core.py",
+    "Lib/site-packages/installer/_scripts/__init__.py",
+    "Lib/site-packages/installer/_scripts/t32.exe",
+    "Lib/site-packages/installer/_scripts/t64-arm.exe",
+    "Lib/site-packages/installer/_scripts/t64.exe",
+    "Lib/site-packages/installer/_scripts/t_arm.exe",
+    "Lib/site-packages/installer/_scripts/w32.exe",
+    "Lib/site-packages/installer/_scripts/w64-arm.exe",
+    "Lib/site-packages/installer/_scripts/w64.exe",
+    "Lib/site-packages/installer/_scripts/w_arm.exe",
+    "Lib/site-packages/installer/destinations.py",
+    "Lib/site-packages/installer/exceptions.py",
+    "Lib/site-packages/installer/py.typed",
+    "Lib/site-packages/installer/records.py",
+    "Lib/site-packages/installer/scripts.py",
+    "Lib/site-packages/installer/sources.py",
+    "Lib/site-packages/installer/utils.py",
+    "Lib/site-packages/installer/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/installer/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/installer/__pycache__/_core.cpython-310.pyc",
+    "Lib/site-packages/installer/_scripts/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/installer/__pycache__/destinations.cpython-310.pyc",
+    "Lib/site-packages/installer/__pycache__/exceptions.cpython-310.pyc",
+    "Lib/site-packages/installer/__pycache__/records.cpython-310.pyc",
+    "Lib/site-packages/installer/__pycache__/scripts.cpython-310.pyc",
+    "Lib/site-packages/installer/__pycache__/sources.cpython-310.pyc",
+    "Lib/site-packages/installer/__pycache__/utils.cpython-310.pyc"
+  ],
+  "fn": "python-installer-0.7.0-pyhff2d567_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\python-installer-0.7.0-pyhff2d567_1",
+    "type": 1
+  },
+  "md5": "e27480eebcdf247209e90da706ebef8d",
+  "name": "python-installer",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\python-installer-0.7.0-pyhff2d567_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/installer/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/installer/__pycache__/__main__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/installer/__pycache__/_core.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/installer/_scripts/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/installer/__pycache__/destinations.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/installer/__pycache__/exceptions.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/installer/__pycache__/records.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/installer/__pycache__/scripts.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/installer/__pycache__/sources.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/installer/__pycache__/utils.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f1fc3e9561b6d3bee2f738f5b1818b51124f45a2b28b3bf6c2174d629276e069",
+  "size": 233096,
+  "subdir": "noarch",
+  "timestamp": 1733237431000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/python-installer-0.7.0-pyhff2d567_1.conda",
+  "version": "0.7.0"
+}

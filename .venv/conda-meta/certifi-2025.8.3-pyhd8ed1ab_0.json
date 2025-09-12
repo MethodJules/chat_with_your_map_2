@@ -1,0 +1,63 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\certifi-2025.8.3-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/certifi-2025.8.3.dist-info/INSTALLER",
+    "Lib/site-packages/certifi-2025.8.3.dist-info/LICENSE",
+    "Lib/site-packages/certifi-2025.8.3.dist-info/METADATA",
+    "Lib/site-packages/certifi-2025.8.3.dist-info/RECORD",
+    "Lib/site-packages/certifi-2025.8.3.dist-info/REQUESTED",
+    "Lib/site-packages/certifi-2025.8.3.dist-info/WHEEL",
+    "Lib/site-packages/certifi-2025.8.3.dist-info/direct_url.json",
+    "Lib/site-packages/certifi-2025.8.3.dist-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py",
+    "Lib/site-packages/certifi/py.typed",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-310.pyc"
+  ],
+  "fn": "certifi-2025.8.3-pyhd8ed1ab_0.conda",
+  "license": "ISC",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\certifi-2025.8.3-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "11f59985f49df4620890f3e746ed7102",
+  "name": "certifi",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\certifi-2025.8.3-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/__main__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/core.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a1ad5b0a2a242f439608f22a538d2175cac4444b7b3f4e2b8c090ac337aaea40",
+  "size": 158692,
+  "subdir": "noarch",
+  "timestamp": 1754231530000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/certifi-2025.8.3-pyhd8ed1ab_0.conda",
+  "version": "2025.8.3"
+}

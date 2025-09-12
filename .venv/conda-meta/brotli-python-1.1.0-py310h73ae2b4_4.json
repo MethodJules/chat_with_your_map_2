@@ -1,0 +1,49 @@
+{
+  "build": "py310h73ae2b4_4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "libbrotlicommon 1.1.0 hfd05255_4"
+  ],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\brotli-python-1.1.0-py310h73ae2b4_4",
+  "files": [
+    "Lib/site-packages/__pycache__/brotli.cpython-310.pyc",
+    "Lib/site-packages/_brotli.cp310-win_amd64.pyd",
+    "Lib/site-packages/brotli-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/brotli-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/brotli-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/brotli-1.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/brotli-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/brotli-1.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/brotli-1.1.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/brotli-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/brotli.py"
+  ],
+  "fn": "brotli-python-1.1.0-py310h73ae2b4_4.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\brotli-python-1.1.0-py310h73ae2b4_4",
+    "type": 1
+  },
+  "md5": "b53cd64780fbd287d3be3004cb6d7743",
+  "name": "brotli-python",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\brotli-python-1.1.0-py310h73ae2b4_4.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7d316ca454968256908c9d947726bc8f51f85fc2a2912814e1a3a98600429855",
+  "size": 322865,
+  "subdir": "win-64",
+  "timestamp": 1756599996000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/brotli-python-1.1.0-py310h73ae2b4_4.conda",
+  "version": "1.1.0"
+}

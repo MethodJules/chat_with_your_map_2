@@ -1,0 +1,127 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\distlib-0.4.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/distlib-0.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/distlib-0.4.0.dist-info/METADATA",
+    "Lib/site-packages/distlib-0.4.0.dist-info/RECORD",
+    "Lib/site-packages/distlib-0.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/distlib-0.4.0.dist-info/WHEEL",
+    "Lib/site-packages/distlib-0.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/distlib-0.4.0.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/distlib-0.4.0.dist-info/top_level.txt",
+    "Lib/site-packages/distlib/__init__.py",
+    "Lib/site-packages/distlib/compat.py",
+    "Lib/site-packages/distlib/database.py",
+    "Lib/site-packages/distlib/index.py",
+    "Lib/site-packages/distlib/locators.py",
+    "Lib/site-packages/distlib/manifest.py",
+    "Lib/site-packages/distlib/markers.py",
+    "Lib/site-packages/distlib/metadata.py",
+    "Lib/site-packages/distlib/resources.py",
+    "Lib/site-packages/distlib/scripts.py",
+    "Lib/site-packages/distlib/t32.exe",
+    "Lib/site-packages/distlib/t64-arm.exe",
+    "Lib/site-packages/distlib/t64.exe",
+    "Lib/site-packages/distlib/util.py",
+    "Lib/site-packages/distlib/version.py",
+    "Lib/site-packages/distlib/w32.exe",
+    "Lib/site-packages/distlib/w64-arm.exe",
+    "Lib/site-packages/distlib/w64.exe",
+    "Lib/site-packages/distlib/wheel.py",
+    "Lib/site-packages/distlib/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/compat.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/database.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/index.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/locators.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/manifest.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/markers.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/metadata.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/resources.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/scripts.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/util.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/version.cpython-310.pyc",
+    "Lib/site-packages/distlib/__pycache__/wheel.cpython-310.pyc"
+  ],
+  "fn": "distlib-0.4.0-pyhd8ed1ab_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\distlib-0.4.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "003b8ba0a94e2f1e117d0bd46aebc901",
+  "name": "distlib",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\distlib-0.4.0-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/compat.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/database.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/index.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/locators.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/manifest.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/markers.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/metadata.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/resources.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/scripts.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/util.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/version.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/distlib/__pycache__/wheel.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6d977f0b2fc24fee21a9554389ab83070db341af6d6f09285360b2e09ef8b26e",
+  "size": 275642,
+  "subdir": "noarch",
+  "timestamp": 1752823081000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/distlib-0.4.0-pyhd8ed1ab_0.conda",
+  "version": "0.4.0"
+}

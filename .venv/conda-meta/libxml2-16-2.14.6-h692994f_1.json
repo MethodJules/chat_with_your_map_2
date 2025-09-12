@@ -1,0 +1,44 @@
+{
+  "build": "h692994f_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "libxml2 2.14.6",
+    "icu <0.0a0"
+  ],
+  "depends": [
+    "libiconv >=1.18,<2.0a0",
+    "liblzma >=5.8.1,<6.0a0",
+    "libzlib >=1.3.1,<2.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\libxml2-16-2.14.6-h692994f_1",
+  "files": [
+    "Library/bin/libxml2.dll",
+    "etc/conda/activate.d/libxml2-split_activate.bat",
+    "etc/conda/activate.d/libxml2-split_activate.ps1",
+    "etc/conda/activate.d/libxml2-split_activate.sh"
+  ],
+  "fn": "libxml2-16-2.14.6-h692994f_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\libxml2-16-2.14.6-h692994f_1",
+    "type": 1
+  },
+  "md5": "ebbfdb0dc9c2f219f7be9800a5d84c02",
+  "name": "libxml2-16",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\libxml2-16-2.14.6-h692994f_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "517c7e0bc8a3c3ca9ab5a1846b60c8132b8d505cbd39d591f1b40baa65ae4459",
+  "size": 525141,
+  "subdir": "win-64",
+  "timestamp": 1757429841000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libxml2-16-2.14.6-h692994f_1.conda",
+  "version": "2.14.6"
+}

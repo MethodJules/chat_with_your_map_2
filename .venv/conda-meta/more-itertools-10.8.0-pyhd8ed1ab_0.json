@@ -1,0 +1,64 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.10"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\more-itertools-10.8.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/more_itertools-10.8.0.dist-info/INSTALLER",
+    "Lib/site-packages/more_itertools-10.8.0.dist-info/METADATA",
+    "Lib/site-packages/more_itertools-10.8.0.dist-info/RECORD",
+    "Lib/site-packages/more_itertools-10.8.0.dist-info/REQUESTED",
+    "Lib/site-packages/more_itertools-10.8.0.dist-info/WHEEL",
+    "Lib/site-packages/more_itertools-10.8.0.dist-info/direct_url.json",
+    "Lib/site-packages/more_itertools-10.8.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/more_itertools/__init__.py",
+    "Lib/site-packages/more_itertools/__init__.pyi",
+    "Lib/site-packages/more_itertools/more.py",
+    "Lib/site-packages/more_itertools/more.pyi",
+    "Lib/site-packages/more_itertools/py.typed",
+    "Lib/site-packages/more_itertools/recipes.py",
+    "Lib/site-packages/more_itertools/recipes.pyi",
+    "Lib/site-packages/more_itertools/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/more_itertools/__pycache__/more.cpython-310.pyc",
+    "Lib/site-packages/more_itertools/__pycache__/recipes.cpython-310.pyc"
+  ],
+  "fn": "more-itertools-10.8.0-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\more-itertools-10.8.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "d7620a15dc400b448e1c88a981b23ddd",
+  "name": "more-itertools",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\more-itertools-10.8.0-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/more_itertools/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/more_itertools/__pycache__/more.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/more_itertools/__pycache__/recipes.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "fabe81c8f8f3e1d0ef227fc1306526c76189b3f1175f12302c707e0972dd707c",
+  "size": 65129,
+  "subdir": "noarch",
+  "timestamp": 1756855971000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/more-itertools-10.8.0-pyhd8ed1ab_0.conda",
+  "version": "10.8.0"
+}

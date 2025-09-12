@@ -1,0 +1,92 @@
+{
+  "build": "pyhcf101f3_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.10",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\platformdirs-4.4.0-pyhcf101f3_0",
+  "files": [
+    "Lib/site-packages/platformdirs/__init__.py",
+    "Lib/site-packages/platformdirs/__main__.py",
+    "Lib/site-packages/platformdirs/android.py",
+    "Lib/site-packages/platformdirs/api.py",
+    "Lib/site-packages/platformdirs/macos.py",
+    "Lib/site-packages/platformdirs/py.typed",
+    "Lib/site-packages/platformdirs/unix.py",
+    "Lib/site-packages/platformdirs/version.py",
+    "Lib/site-packages/platformdirs/windows.py",
+    "Lib/site-packages/platformdirs-4.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/platformdirs-4.4.0.dist-info/METADATA",
+    "Lib/site-packages/platformdirs-4.4.0.dist-info/RECORD",
+    "Lib/site-packages/platformdirs-4.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/platformdirs-4.4.0.dist-info/WHEEL",
+    "Lib/site-packages/platformdirs-4.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/platformdirs-4.4.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/platformdirs/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/android.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/api.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/macos.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/unix.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/version.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/windows.cpython-310.pyc"
+  ],
+  "fn": "platformdirs-4.4.0-pyhcf101f3_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\platformdirs-4.4.0-pyhcf101f3_0",
+    "type": 1
+  },
+  "md5": "cc9d9a3929503785403dbfad9f707145",
+  "name": "platformdirs",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\platformdirs-4.4.0-pyhcf101f3_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/platformdirs/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/platformdirs/__pycache__/__main__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/platformdirs/__pycache__/android.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/platformdirs/__pycache__/api.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/platformdirs/__pycache__/macos.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/platformdirs/__pycache__/unix.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/platformdirs/__pycache__/version.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/platformdirs/__pycache__/windows.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "dfe0fa6e351d2b0cef95ac1a1533d4f960d3992f9e0f82aeb5ec3623a699896b",
+  "size": 23653,
+  "subdir": "noarch",
+  "timestamp": 1756227402000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/platformdirs-4.4.0-pyhcf101f3_0.conda",
+  "version": "4.4.0"
+}

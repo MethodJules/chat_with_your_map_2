@@ -1,0 +1,41 @@
+{
+  "build": "hc1393d2_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "extracted_package_dir": "C:\\Users\\moham\\anaconda3\\pkgs\\libiconv-1.18-hc1393d2_2",
+  "files": [
+    "Library/bin/charset.dll",
+    "Library/bin/iconv.dll",
+    "Library/include/iconv.h",
+    "Library/include/libcharset.h",
+    "Library/include/localcharset.h",
+    "Library/lib/charset.lib",
+    "Library/lib/iconv.lib"
+  ],
+  "fn": "libiconv-1.18-hc1393d2_2.conda",
+  "license": "LGPL-2.1-only",
+  "link": {
+    "source": "C:\\Users\\moham\\anaconda3\\pkgs\\libiconv-1.18-hc1393d2_2",
+    "type": 1
+  },
+  "md5": "64571d1dd6cdcfa25d0664a5950fdaa2",
+  "name": "libiconv",
+  "package_tarball_full_path": "C:\\Users\\moham\\anaconda3\\pkgs\\libiconv-1.18-hc1393d2_2.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0dcdb1a5f01863ac4e8ba006a8b0dc1a02d2221ec3319b5915a1863254d7efa7",
+  "size": 696926,
+  "subdir": "win-64",
+  "timestamp": 1754909290000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libiconv-1.18-hc1393d2_2.conda",
+  "version": "1.18"
+}
