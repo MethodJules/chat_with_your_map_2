@@ -44,9 +44,7 @@ Beispiel-Ausgabeformat:
 
 
 def build_master_pipeline():
-    """
-    Erstellt und konfiguriert die Master-Pipeline.
-    """
+
     action_agent = ActionTypeAgent()
     location_agent = LocationAgent()
     dataset_agent = DatasetAgent()
