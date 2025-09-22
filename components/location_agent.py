@@ -24,9 +24,7 @@ Antwort: "Wandsbek"
 
 @component
 class LocationAgent:
-    """
-    Eine Haystack-Komponente, die einen Standort aus einem Text extrahiert und geocodiert.
-    """
+
 
     def __init__(self, model_name: str = "meta-llama/Llama-3.3-70B-Instruct"):
         self.generator = OpenAIChatGenerator(
@@ -38,9 +36,7 @@ class LocationAgent:
 
     @component.output_types(location_data=Optional[Dict[str, Any]])
     def run(self, query: str) -> Dict[str, Any]:
-        """
-        Führt die Standorterkennung und Geocodierung durch.
-        """
+
         messages = [ChatMessage.from_system(system_prompt_location), ChatMessage.from_user(query)]
         response = self.generator.run(messages=messages)
         location_name = response["replies"][0].content.strip()
