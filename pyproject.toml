@@ -13,6 +13,7 @@ haystack-ai = "^2.17.1"
 dotenv = "^0.9.9"
 geocoder = "^1.38.1"
 geopy = "^2.4.1"
+pandas = "^2.3.3"
 
 
 [build-system]
