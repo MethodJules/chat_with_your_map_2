@@ -27,11 +27,8 @@ class LocationExtractorComponent:
         Deine Aufgabe ist es, die Orte als JSON-Objekt mit dem Schlüssel "locations" zurückzugeben, der ein Array von Strings enthält.
 
         Beispiele:
-        Text: "Zeige mir die Route von Hamburg nach Berlin."
-        Antwort: {"locations": ["Hamburg", "Berlin"]}
-
-        Text: "Vergleiche die Bevölkerung von Paris und London."
-        Antwort: {"locations": ["Paris", "London"]}
+        Text: "Zeige mir die Route von Hamburg Hauptbahnhof nach Altona."
+        Antwort: {"locations": ["Hamburg", "Altona"]} 
 
         Text: "Wo liegt Altona?"
         Antwort: {"locations": ["Altona"]}

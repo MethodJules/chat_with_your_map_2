@@ -1,32 +1,40 @@
 import json
-import uuid
-from datetime import datetime
+from typing import Dict, Any, Optional
 from haystack import component
 
 
 @component
-class JsonCombinerComponent:
-    #A component that merges JSON outputs from other components into a final structure.
+class JSONCombinerComponent:
+    """
+    Kombiniert die JSON-Ausgaben der Extraktor-Komponenten zu einem einzigen JSON-Objekt.
+    """
+
     @component.output_types(final_json=dict)
-    def run(self, action_json: dict, layer_json: dict, location_json: dict, raw_query: str):
+    def run(self, raw_query: str, action_json: Optional[dict] = None, layer_json: Optional[dict] = None,
+            location_json: Optional[dict] = None):
 
-        command = {
-            **action_json,
-            **layer_json,
-            **location_json,
-            "rawQuery": raw_query
-        }
+        final_command = {}
 
-        # Remove empty keys if a component failed
-        if not command.get("action"): command.pop("action", None)
-        if not command.get("layer"): command.pop("layer", None)
-        if not command.get("location"): command.pop("location", None)
+        # Füge die Ergebnisse der einzelnen Komponenten hinzu, wenn sie vorhanden sind
+        if action_json and "action" in action_json:
+            final_command["action"] = action_json["action"]
 
-        final_structure = {
-            "command": command,
-            "metadata": {
-                "requestId": str(uuid.uuid4()),
-                "timestamp": datetime.utcnow().isoformat() + "Z",
-            }
-        }
-        return {"final_json": final_structure}
+        if layer_json and "layers" in layer_json:
+            # Wenn es nur einen Layer gibt, füge ihn direkt hinzu, ansonsten die ganze Liste
+            if len(layer_json["layers"]) == 1:
+                final_command["layer"] = layer_json["layers"][0]
+            else:
+                final_command["layers"] = layer_json["layers"]
+
+        if location_json and "locations" in location_json:
+            # Wenn es nur einen Ort gibt, füge ihn direkt hinzu, ansonsten die ganze Liste
+            if len(location_json["locations"]) == 1:
+                final_command["location"] = location_json["locations"][0]
+            else:
+                final_command["locations"] = location_json["locations"]
+
+        # Füge die ursprüngliche Anfrage hinzu
+        final_command["rawQuery"] = raw_query
+
+        return {"final_json": {"command": final_command}}
+
