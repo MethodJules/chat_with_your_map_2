@@ -31,7 +31,7 @@ class LayerExtractorComponent:
         Gib deine Antwort ausschließlich als JSON-Objekt mit dem Schlüssel "layer" zurück.
         Beispiel(wenn 1 gefunden) : Text: Zeige mir alle Fahrradstationen. Antwort: {{"layers": {{"name": "[NAME]", "id": "[ID]", "confidence": 0.92}}}}
         Beispiel (wenn 2 gefunden) : Text: Zeige mir alle Fahrradstationen und Parkplätze. Antwort: {{"layers": {{"name": "[NAME]", "id": "[ID]", "confidence": 0.92}},{{"name": "[NAME]", "id": "[ID]", "confidence": 0.50}}}}
-        
+
         Wenn Mehr gefunden Zeig ihnen alle
 
         """
