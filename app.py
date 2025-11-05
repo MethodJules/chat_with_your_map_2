@@ -3,6 +3,7 @@ API Integration
 """
 import uvicorn
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Dict, Any
 import json
@@ -21,6 +22,17 @@ from components.text_response_component import TextResponseComponent
 
 
 app = FastAPI(title="Chat with your map API")
+origins = ["*"
+]
+
+app.add_middleware(
+  CORSMiddleware,
+  allow_origins = origins,
+  allow_credentials = True,
+  allow_methods = ["*"],
+  allow_headers = ["*"]
+)
+
 CSV_PATH = "./data/csv datei.csv"
 class QueryRequest(BaseModel):
   query: str
