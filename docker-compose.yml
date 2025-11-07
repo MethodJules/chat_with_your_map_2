@@ -1,0 +1,10 @@
+version: ""
+
+services:
+  api:
+    build: .
+    command: python app.py
+    volumes:
+      - .:/app
+    ports:
+      - "8082:8082"
